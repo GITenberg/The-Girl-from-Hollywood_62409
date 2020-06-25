@@ -1,0 +1,38 @@
+_repo: The-Girl-from-Hollywood_62409
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Monahan, P. J.
+    alias: Sullivan, Patrick John, 1882-1931
+    birthdate: 1882
+    deathdate: 1931
+    gutenberg_agent_id: '46811'
+    url: http://www.gutenberg.org/2009/agents/46811
+creator:
+  author:
+    agent_name: Burroughs, Edgar Rice
+    birthdate: 1875
+    deathdate: 1950
+    gutenberg_agent_id: '48'
+    url: http://www.gutenberg.org/2009/agents/48
+    wikipedia: https://en.wikipedia.org/wiki/Edgar_Rice_Burroughs
+description: ''
+gutenberg_issued: '2020-06-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62409'
+  lccn: '23011827'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Drug dealers -- Fiction'
+- !lcsh 'Hollywood (Los Angeles, Calif.) -- Fiction'
+- !lcsh 'Detective and mystery stories'
+- !lcc 'PS'
+- !lcsh 'Motion picture industry -- Fiction'
+- !lcsh 'Ranch life -- Fiction'
+- GITenberg
+title: The Girl from Hollywood
+url: http://www.gutenberg.org/ebooks/62409
